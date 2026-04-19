@@ -59,11 +59,3 @@ Includes:
 
 ---
 
-## 📸 Preview
-
-Add screenshots inside `/assets`
-
-```text
-assets/home.png
-assets/analyze.png
-assets/article.png
